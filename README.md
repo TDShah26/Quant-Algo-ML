@@ -11,10 +11,10 @@ Quant-Algo-ML is a project aimed at implementing quantitative trading algorithms
 
 ## Usage
 1. Open the Jupyter notebooks in the repository:
-    - `NIFTY100_QuantAlgo.ipynb`
-    - `NIFTY500_QuantAlgo.ipynb`
-    - `NIFTYMidcap100_QuantAlgo.ipynb`
-    - `NIFTYMidcap150_QuantAlgo.ipynb`
+    - NIFTY100_QuantAlgo.ipynb
+    - NIFTY500_QuantAlgo.ipynb
+    - NIFTYMidcap100_QuantAlgo.ipynb
+    - NIFTYMidcap150_QuantAlgo.ipynb
 2. Run the cells to process data, train models, and make trading predictions.
 
 ## Project Workflow
@@ -34,8 +34,11 @@ Quant-Algo-ML is a project aimed at implementing quantitative trading algorithms
 - **Scikit-learn**: Machine learning library for model training.
 - **Matplotlib/Seaborn**: Data visualization libraries.
 
+## Code Comments
+- All code in this repository has been commented line by line to enhance understanding and readability.
+
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
 - Special thanks to the open-source community for the resources and tools.
