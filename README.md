@@ -42,5 +42,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 - Special thanks to the open-source community for the resources and tools.
-- Thanks to contributors for their valuable input and suggestions.
 - This repository is inspired by and uses resources from [Algorithmic Trading Machine Learning Quant Strategies](https://github.com/Luchkata/Algorithmic_Trading_Machine_Learning/blob/main/Algorithmic_Trading_Machine_Learning_Quant_Strategies.ipynb).
